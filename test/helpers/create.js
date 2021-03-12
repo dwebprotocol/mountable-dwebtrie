@@ -1,5 +1,5 @@
 const { promisify } = require('util')
-const Basestore = require('basestorevault')
+const Basestore = require('basestorex')
 const ram = require('random-access-memory')
 
 const MountableDWebTrie = require('../..')
